@@ -6,7 +6,6 @@ Dockerサンプル
 * ホストマシンの80番ポートを転送します。
 * Bootstrap3.4でスタイリングしたHTMLコンテンツが/var/wwww/htmlにコピーされます。
 * あといろいろですね。
-* だるい
 
 ## Usage
 `$ docker pull asashiho/dockersample`
